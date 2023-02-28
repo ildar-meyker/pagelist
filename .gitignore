@@ -1,0 +1,8 @@
+node_modules/
+bower_components/
+npm-debug.log
+.idea
+.DS_Store
+archive.zip
+todo.txt
+deploy.config.json
